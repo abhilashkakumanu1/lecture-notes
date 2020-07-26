@@ -1,2 +1,259 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net" modified="2020-07-26T10:23:18.080Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="qshQLaI9MipuJSZn4B-P" version="13.5.3" type="device" pages="5"><diagram id="RgNJaC4ofJCp8kADNmh8" name="Chapter 1 - Rational Numbers">jZNNU4MwEIZ/DcfOUGiRHi3WetAe7IzOeHECWSA2sBiCgL/eAAkfdpzxRPK87242m8Vyg6w5ClKkT0iBW45NG8u9sxxnvbZ99elIO5DNbjOARDCqTRM4s2/Q0Na0YhTKhVEicsmKJYwwzyGSC0aEwHppi5EvTy1IAlfgHBF+TV8ZlelA/a098QdgSSrHC2slI8asU5QpoVgPqPe4B8sNBKIcVlkTAO+aZ/oyJLr/Qx0LE5DL/wSc9h+0od+PL5djZr/VuH9vo5XO8kV4pS9sOR5X+fYxqrSqatnqVnifFRphVfYPdasMrl00k6hWif72WUIDnolkmJOuoFOVhSBKY1EVh7/DFBvON9hZlOIIrHIK3cVsJdcpk3AuSNSptZpDxVKZcbVbdwUzzgPkKPpYlxLw40jxUgq8wEzxIh/CeDxv3lrTJxASmhnSrT4CZiBFqyxG3W2HED33zo2ei3qaoo2nWTqbIMOIHtxkTD29rVro5zXbaYx6bfYzuocf</diagram><diagram id="1QnkDdDGbk081AQ0mokz" name="Classification of Numbers">7ZfNcpswFIWfhqU7gADjZYwd9zfxxNNm2k1GBhk0FQgLEWM/fSVLGBS8aDp1unDZSJx7uaDzXdBggShvFgyW2ReaIGK5dtJYYGa5ruPYoRiksleKN/GUkDKc6KROWOED0qKt1RonqDISOaWE49IUY1oUKOaGBhmjOzNtQ4l51xKmaCCsYkiG6iNOeKbU0Lc7/T3CacZPC9aRHLbJWqgymNBdTwJzC0SMUq5meRMhIs1rfcEPbEkz9rS6p82P8PP37bfFbKSK3b7mktMSGCr4H5eODkWy3K/n981kG8/q5afJ14/6EvsZkrrzKxKKqwagBk8N79Sh7eD71mNG6yJB8j62Baa7DHO0KmEsozvRVULLeE7EmSOmG1pw3SauTN9gQiJKKDvWAglE4SYWesUZ/Yl6kSAO0XojIr9ph7btGTGOml4zaHsWiOaIs71I0VHQktat7vhjdb7rGscNdE7WaxpPa1D3anoq3fEQE43kFXicAR5bkfhP6UTJDYN/TMkdUGoJSBwjDWmkmZ0leGXMvHZ3eAtmQzx3kNcMypy7Ol8jVg18F+viprmQ4LQQ81hYg4RvU7l6LPaZGx3IcZLIy6cMVfgA18dSEkNJccGPz+9PLX8ma9WcVgrUOW4XoxD45vfNHVJwxmcogEu9OWCA5jGjwrhrAzN+8UnzJkMw516Pi4HxBmA+CHfTqyHi2earciLUIzJ5SyD+AIjlBkQavxaTlB+9UIL0yEAUbGvaBkbKzBu59YCy6YJtlQfIMS2MjyO4bUuLR1fVzTsKufcU19AfAJj94ftnNjTwdxpEnHY/GcdY71cNzH8B</diagram><diagram id="HaewqzLbhBbCN0jFUjjL" name="Rational Numbers">zVbLcpswFP0aZpJFOjwMdpexnUcXSdNmYbubjgzXwFQgLESM+/W9AomHsfPqZCaLxLpH0rkPHa5kOLOkvOEki+5YANSwzaA0nLlh2xNvgv8lsK+B0ddRDYQ8DmrIaoHH+C8o0FRoEQeQ9xYKxqiIsz7oszQFX/Qwwjnb9ZdtGO17zUgIA+DRJ3SILuJARCot12zxW4jDSHu2TDWTEL1YUeQRCdiuhqo1zpXhzDhjoh4l5QyorJ2uyyVMflysltf5/i7zQj5PlwtxUbNfv2VLkwKHVLyb+vtt+sAzam8XsLYs5/d0vVypLeYToYWql2F7FJ1MC9zrhXKkERofIhuG8WBhxF5V29sWTE9c5JUWLnEBxl62k5oFoWnjDuOu2Y570LLSHNaQzpCH8iqy94Vb7TAtR/qpNpMkQ1j7viei4EQW/L5I1sDzZkW6zrNOFCeCQ3hY4I8ouasTMN0TqSwihuTdRD5F4Nbkxci/pQLCTxKyXTbhntKMdrTWe34SEbP0QEU65PWRNF6dHYLdL9ru5WVzVqQByEaBcU53USzgMSO+nN3hrYBYJBKKloVDQuMwxTGFTUv2YnNSTewJuICy01dVs7oBloDge1yiZh19g6iLxxope9e2ccdTWNRt4WMFEnV1hA132x5xoDrkG7qlNeyW7uwM/zac+MZ4mhnjOf5s5Y87O6+uK540p8x1/XcRcPmBZYaNgZhbKYWaKE7VxoE0fp1QQq/HnHWoUtgqLvP8/w5cikxd7FLH001M6YxRxisuJyAw2fiI54KzP9CZ8fwJrDcfqBHL6WtkZLkDjdjHNPL1oyRiH7lQD2oPaXApHzZo+ZTkeew/X24oY7GUJ/XFw7dXba8qe2Jre16qo6yMfcd4AB5jasA1lmKaNZ2rzVV3rqWqrIYrwGeVSoJxEbFQNqqrFn3jIees4D68/DQRhIcgXv4oZXzPSqYjCfeIIjTGgWITfuq/Ho/JRHl4YHF1SyhFul5fkY7t9inqvNWu7nPtgMg7aH/2+ICoLsyAqFJtk/YxIaPZPlrr5e3L37n6Bw==</diagram><diagram id="tDbBCs2632otGitq-PtE" name="Properties of Operations">7VjbcpswEP0aP6bD3fjRxmkyTTN165nG7ZsCAtQKZAvhS76+EgiDbHxpbKZppy82eyR22d2zu6Ce6SXrOwrm8SMJIO4ZWrDumeOeYbiOy38FsCkBa2CVQERRUEJ6DUzRC5SgJtEcBTBTNjJCMENzFfRJmkKfKRiglKzUbSHBqtU5iKRFrQamPsBwb9sTClgs3bIbu+8hiuLKsq7JlQRUmyWQxSAgqwZk3vZMjxLCyqtk7UEsYlfF5XHwvW+v2GRsPSw+e5559wKebkpl73/nlq0LFKbs1aqNUssS4FyGZkLJHFKGeHoMjYT85xOXAUMkzaTLbFPFcRUjBqdz4At5xanSM0cxSzCXdH4ZkpTJ5JuakBHGHsGEFnebAYBu6HM8Y5T8hI0Vx3fhc1hpkPbO9VjuW3Iv4LqRbxmBO0gSyOiGb5Gr22RKNuuulFc1N2zdLrG4wQtH7gOSjtFWdR1yfiGj3p6BVP8aLunDF3sxGC4++qPZzDFurL207IU+oiSfXxiRbYGBZwx3OdwWKcdSI2W0RMqoqqgZqe5Ctc/gnuFgbnZEsBIxZ5GLoiwodZMVrBzyDTx83LlRvc6vIvlfqMHoIjXDIECieCp13Emh8ao2pvkzo8Dv2sxjLjo0Rj7o2tIYLVF2ygYHRYorcKc+ONPZXmtJSQp3+pCEGl2rramJ0uF+4yFGUcrhBAWBsDQifCXExQSIOQZTte0Zou0BeROGYf2ozaI92gPObmO6WptOS2mabaWpdVWa5sHSFBE6myB77GgOpC0VSpUHyMB7ZRpA8azagQS3Ty0lfT7PF6SvGmNXT/mpfnuNdkuWP+7DcLb6kI+i2eDJCm133Npu38RkUslvavaZg8m0O4rUYfa/jcHkYZLlFHbZxj2SJDnjpbpEbNOloWGWER+dY+jfGRpHy/N0BzkyJdpedfV+V3XS9q57jSnR/JD5W6fEhTn+Y1PCOT0lYBoMxZe8CBkGWYb84/GFa8RmIjXvdNuW8rdCrqTxWmauEDYNYQIp4o6JtJRYEMHqq5JQFpOIpADf1mhLKo6Nr4zk1IfKF7UwcW5u2lJTYRRi0dbUc4u2fEkLE4KKopHEMG11Llr2TsrLR5d3NQ8KdhTprr0zYE1VEQM0gmxPUUGfrduvZ1S/S0a5tvWfUWcyynWtd66hkkF3+69jVb9/4DzhYlZxsT6EK7fXJ5nm7S8=</diagram><diagram id="sZwl5a6iueQj_6iBFSPd" name="Closure Property">7Vpdc5s4FP01nt0+pAPIgP3YkLTb2W13J+nOtk8dGYStiUCsELHTX98rEDZEOMVpsJMpM3FAVx/APUf3Hq49QUGyeSdwtvrAI8ImjhVtJuhi4ji25SM4KMtdZZlO3cqwFDTSg3aGa/qN1DO1taARyVsDJedM0qxtDHmaklC2bFgIvm4PizlrXzXDS2IYrkPMTOt/NJKryjpzrZ39D0KXq/rKtqV7ElwP1kvkKxzxdWUqx6DLCQoE57I6SzYBYcp5tV+Kr+Tfa/Tu6vOn5c3XLw55L8M/z6rV3x4yZfsIgqTyaZd2qqVvMSu0vwLG80IQMP4jeEaEvNNPL+9ql65XVJLrDIeqvQbaTND5SiYMWjacxjyVmgfgJ2hTxgLOuChnowiTWRyCPZeC35BGjxfOyCKGHn1TcHGyuYfiD1xgb3EBQhOeECng/i29iuNrbDWX6+Z6RwxUE2PVIIWnbVhzcbldeedvONEuPwRZyzMAuMKS8hSruR+LZEFEbgAATMzUqcQLZWo6vwubXGJRI4IUIrDXJKYpEXpSyBnDWU7L1S7KESvKor/wHS9kfZ26VeGrb0bNxowuUzgPARq15DMmwLyN/zZINQjg+R0EmA7IAN9gwF684eklxewK4iROl32gN5GNYFd/wmJJpDZknCrcLm/Bsbm2NRFLeaouJHmmOxmJ67kLLiVPdENof20XLX3lnsMfeC+wXrsTF54mgLa9a8OfGi5kwFMgBNBSrUFwLtcklz/HhWp3mWzQ8KOe6Hv2YODPDPD/hphbRoAnZUGZW/GOBfe2JLEjl/gHo8wBlZiVOXFFo4ikHdHB2ORzz0fYa4cJ2/1JoP1uoBvIOjY6KrJzA9nLDU4yRvaH8xHY3sBu7oHaBBr5xwS6TiHNDE4SLG5GnJ8O56lrhmotwo+Gsz3m6Qfz9FOy4eG8Pbf75e3ZbDAymO9Nb6KIHjttx3HshOFxdn3kLTz3iXe9vUet/yhtDwgsMne5G/wOn1jgcOKfTyf+BRx8dVAB6Fz93/Z6VS88V9WNLlrdM93vl9Pd4JXaZXBLuXoW+Ijdq19avvpNHA80Azg5XeTZ1tdHINejgsleXg3LlkO1wIDsmXbkCI+p6Lho4eb9X/A6Zp7lpXvewADbzTalj+p+OFuq4xelGquF4M4WtbmiT8h4TiI4KdJIUcbC21A0sqcve3orjAHZ444K45koDNuf95MY8+lgbDArg9fFAtwSjirjwJ3vPk5lDIhtR82vpTLO3JbMOGupCKfqQ90a48yZV/2O3Vtk/MppYQ85DhUVA5LFrBE2REVDHwTdEsHUB/kJ4sgLxL63JBgQ+/moAE6jABzf3PjdCgANBb5jVhY/FOqLc0bDo39D8OJFwPyRImA4eDsKim0RcC/Ru4GkiQr0llGOcPdogZmuR7ijFHg8RQ6WAsNRxiw7nqK+kJwmCr1AzvSXEMNxBo0S4jQSAnleTwkxmH50zILkBb2l+SgeDgK62kPPqYLgdNQKW+LBrjK/tU38tThAb3/pgL0Pyufzvu+Yhb/Dk7yR4T9Cq2d5INpGCGtBQlzk5J5R+esbEbyWkmpiTFMSvYbG+1h5r5zC09/kpPxlb07NpRuryBVRJqOscfeQLGmsVQlalvPG44wcP0VdA5q7H0SXfY2flaPL7w==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-26T11:05:09.154Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="iQWHJPwSWUyZ2gr7l-K5" version="13.5.3" type="github" pages="7">
+  <diagram id="RgNJaC4ofJCp8kADNmh8" name="Chapter 1 - Rational Numbers">
+    <mxGraphModel dx="868" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NBjdxdzLVkGm0ZwoB_yc-1" value="&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;b&gt;Rational Numbers&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="195" y="270" width="460" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1QnkDdDGbk081AQ0mokz" name="Classification of Numbers">
+    <mxGraphModel dx="868" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="iRrPohr_SOoxZ8LYqVGD-0" />
+        <mxCell id="iRrPohr_SOoxZ8LYqVGD-1" parent="iRrPohr_SOoxZ8LYqVGD-0" />
+        <mxCell id="CzndPybEOx9qcDuPK9UJ-0" value="1, 2, 3, 4, ......." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="iRrPohr_SOoxZ8LYqVGD-1" vertex="1">
+          <mxGeometry x="320" y="157" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CzndPybEOx9qcDuPK9UJ-1" value="0, 1, 2, 3, 4, ......." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="iRrPohr_SOoxZ8LYqVGD-1" vertex="1">
+          <mxGeometry x="320" y="286" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CzndPybEOx9qcDuPK9UJ-2" value="......, -2, -1, 0, 1, 2, ......." style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="iRrPohr_SOoxZ8LYqVGD-1" vertex="1">
+          <mxGeometry x="320" y="410" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="Natural Numbers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="iRrPohr_SOoxZ8LYqVGD-1" vertex="1">
+          <mxGeometry x="365" y="120" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CzndPybEOx9qcDuPK9UJ-3" value="Whole Numbers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="iRrPohr_SOoxZ8LYqVGD-1" vertex="1">
+          <mxGeometry x="370" y="249" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CzndPybEOx9qcDuPK9UJ-4" value="Integers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="iRrPohr_SOoxZ8LYqVGD-1" vertex="1">
+          <mxGeometry x="405" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CzndPybEOx9qcDuPK9UJ-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;Rational Numbers?&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="iRrPohr_SOoxZ8LYqVGD-1" vertex="1">
+          <mxGeometry x="335" y="550" width="230" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HaewqzLbhBbCN0jFUjjL" name="Rational Numbers">
+    <mxGraphModel dx="868" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="Ae8Q-YXFsyMp6grDnXWt-0" />
+        <mxCell id="Ae8Q-YXFsyMp6grDnXWt-1" parent="Ae8Q-YXFsyMp6grDnXWt-0" />
+        <mxCell id="OHnPrpl2qWeb113_BbXY-0" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;x+2&lt;/font&gt;&lt;font size=&quot;1&quot;&gt; &lt;/font&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;= 13 =&amp;gt; Natural Numbers&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;x+5 = 5 =&amp;gt; Whole Numbers&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;x+18 = 5 =&amp;gt; Integers&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;2x = 3 =&amp;gt; &lt;b&gt;Rational Numbers&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="Ae8Q-YXFsyMp6grDnXWt-1" vertex="1">
+          <mxGeometry x="310" y="140" width="360" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="OHnPrpl2qWeb113_BbXY-1" value="\(\frac{p}{q}\) form&lt;br&gt;where p, q \(\in\) &lt;b&gt;Z&lt;/b&gt;&amp;nbsp;(q \(\neq\) 0)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Ae8Q-YXFsyMp6grDnXWt-1" vertex="1">
+          <mxGeometry x="130" y="415" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OHnPrpl2qWeb113_BbXY-2" value="" style="endArrow=classic;html=1;fontSize=20;exitX=0.694;exitY=0.824;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="Ae8Q-YXFsyMp6grDnXWt-1" source="OHnPrpl2qWeb113_BbXY-0" target="OHnPrpl2qWeb113_BbXY-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="325" as="sourcePoint" />
+            <mxPoint x="610" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tDbBCs2632otGitq-PtE" name="Properties of Operations">
+    <mxGraphModel dx="868" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="M9Z75wtPD4KqQCC3GzaW-0" />
+        <mxCell id="M9Z75wtPD4KqQCC3GzaW-1" parent="M9Z75wtPD4KqQCC3GzaW-0" />
+        <mxCell id="2" value="Properties of Operations" style="whiteSpace=wrap;html=1;fontSize=30;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="M9Z75wtPD4KqQCC3GzaW-1" vertex="1">
+          <mxGeometry x="220" y="180" width="515" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1VfvrKR5q9AqLcBXX62-4" value="" style="group" parent="M9Z75wtPD4KqQCC3GzaW-1" vertex="1" connectable="0">
+          <mxGeometry x="640" y="280" width="250" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="n1VfvrKR5q9AqLcBXX62-2" value="&lt;ol style=&quot;font-size: 20px;&quot;&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Addition&lt;/li&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Subtraction&lt;/li&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Multiplication&lt;/li&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Division&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=20;align=left;" parent="n1VfvrKR5q9AqLcBXX62-4" vertex="1">
+          <mxGeometry x="10" y="60" width="230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="n1VfvrKR5q9AqLcBXX62-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Operations&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="n1VfvrKR5q9AqLcBXX62-4" vertex="1">
+          <mxGeometry width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovjHffXwJuBgX9W4f58D-2" value="" style="group" parent="M9Z75wtPD4KqQCC3GzaW-1" vertex="1" connectable="0">
+          <mxGeometry x="60" y="305" width="250" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="ovjHffXwJuBgX9W4f58D-3" value="&lt;ol style=&quot;font-size: 20px;&quot;&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Closure&lt;/li&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Commutativity&lt;/li&gt;&lt;li style=&quot;font-size: 20px;&quot;&gt;Associativity&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=20;align=left;" parent="ovjHffXwJuBgX9W4f58D-2" vertex="1">
+          <mxGeometry y="60" width="215" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="ovjHffXwJuBgX9W4f58D-4" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Properties&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ovjHffXwJuBgX9W4f58D-2" vertex="1">
+          <mxGeometry width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ovjHffXwJuBgX9W4f58D-6" value="" style="endArrow=classic;html=1;fontSize=20;exitX=0.155;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="M9Z75wtPD4KqQCC3GzaW-1" source="2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="450" as="sourcePoint" />
+            <mxPoint x="185" y="303" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ovjHffXwJuBgX9W4f58D-7" value="" style="endArrow=classic;html=1;fontSize=20;exitX=0.854;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="M9Z75wtPD4KqQCC3GzaW-1" source="2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="884.825" y="187" as="sourcePoint" />
+            <mxPoint x="770" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sZwl5a6iueQj_6iBFSPd" name="Closure Property">
+    <mxGraphModel dx="868" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-0" />
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-1" parent="u_eUS3GRXTgk_Y2eItcK-0" />
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-2" value="Closure Property" style="whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="u_eUS3GRXTgk_Y2eItcK-1" vertex="1">
+          <mxGeometry x="270" y="70" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-106" value="Rational Numbers" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="u_eUS3GRXTgk_Y2eItcK-1" vertex="1">
+          <mxGeometry x="90" y="210" width="670" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-107" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="u_eUS3GRXTgk_Y2eItcK-106" vertex="1">
+          <mxGeometry y="30" width="670" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-108" value="Operation" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#9673a6;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-107" vertex="1">
+          <mxGeometry width="213" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-109" value="Examples" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#9673a6;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-107" vertex="1">
+          <mxGeometry x="213" width="237" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-110" value="Remarks" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#9673a6;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-107" vertex="1">
+          <mxGeometry x="450" width="220" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-111" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-106" vertex="1">
+          <mxGeometry y="91" width="670" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-112" value="Addition" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#d6b656;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-111" vertex="1">
+          <mxGeometry width="213" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-113" value="\(\frac{4}{7} + \frac{6}{11} = \frac{86}{77}\), is a rational number&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-111" vertex="1">
+          <mxGeometry x="213" width="237" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-114" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Yes&lt;/b&gt;, closed under addition&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-111" vertex="1">
+          <mxGeometry x="450" width="220" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-115" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-106" vertex="1">
+          <mxGeometry y="179" width="670" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-116" value="Subtraction" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#d6b656;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-115" vertex="1">
+          <mxGeometry width="213" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-117" value="\(\frac{-5}{7} - \frac{2}{3} = \frac{-29}{21}\), is a rational number" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-115" vertex="1">
+          <mxGeometry x="213" width="237" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-118" value="&lt;b&gt;Yes,&lt;/b&gt; closed under subtraction" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-115" vertex="1">
+          <mxGeometry x="450" width="220" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-119" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-106" vertex="1">
+          <mxGeometry y="273" width="670" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-120" value="Multiplication" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#d6b656;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-119" vertex="1">
+          <mxGeometry width="213" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-121" value="\(\frac{-2}{3} \times \frac{4}{5} = \frac{-8}{15}\), is a rational number" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-119" vertex="1">
+          <mxGeometry x="213" width="237" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-122" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;Yes&lt;/b&gt;, closed under multiplication" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-119" vertex="1">
+          <mxGeometry x="450" width="220" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-123" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-106" vertex="1">
+          <mxGeometry y="366" width="670" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-124" value="Division" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#d6b656;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-123" vertex="1">
+          <mxGeometry width="213" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-125" value="\(\frac{1}{0}\) = ?" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-123" vertex="1">
+          <mxGeometry x="213" width="237" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="u_eUS3GRXTgk_Y2eItcK-126" value="&lt;b style=&quot;font-size: 15px&quot;&gt;Not&lt;/b&gt; closed under division because division by zero is undefined. If we don&#39;t consider division by zero then &lt;b&gt;yes&lt;/b&gt;, division is also closed" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=15;" parent="u_eUS3GRXTgk_Y2eItcK-123" vertex="1">
+          <mxGeometry x="450" width="220" height="94" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6vGAaco0Mgu3iskvK_xd" name="Commutativity">
+    <mxGraphModel dx="868" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="f_tlsHrvA2G97B0RhdTm-0" />
+        <mxCell id="f_tlsHrvA2G97B0RhdTm-1" parent="f_tlsHrvA2G97B0RhdTm-0" />
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-0" value="Commutativity" style="whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="f_tlsHrvA2G97B0RhdTm-1">
+          <mxGeometry x="270" y="70" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-1" value="Rational Numbers" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="f_tlsHrvA2G97B0RhdTm-1">
+          <mxGeometry x="90" y="210" width="670" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-2" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-1">
+          <mxGeometry y="30" width="670" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-3" value="Operation" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-2">
+          <mxGeometry width="213" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-4" value="Examples" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-2">
+          <mxGeometry x="213" width="237" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-5" value="Remarks" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-2">
+          <mxGeometry x="450" width="220" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-1">
+          <mxGeometry y="91" width="670" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-7" value="Addition" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#d6b656;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-6">
+          <mxGeometry width="213" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-8" value="\(\frac{-2}{3} + \frac{5}{7} = \frac{1}{21}\) and \(\frac{5}{7} + \frac{-2}{3} = \frac{1}{21}&lt;br&gt;&amp;nbsp;\)&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-6">
+          <mxGeometry x="213" width="237" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-9" value="&lt;b style=&quot;font-size: 15px&quot;&gt;Yes&lt;/b&gt;, addition is commutative" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-6">
+          <mxGeometry x="450" width="220" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-1">
+          <mxGeometry y="179" width="670" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-11" value="Subtraction" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#d6b656;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-10">
+          <mxGeometry width="213" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-12" value="\(\frac{-5}{7} - \frac{2}{3} = \frac{-29}{21}\) and \(\frac{2}{3} - \frac{-5}{7}&amp;nbsp;= \frac{29}{21}&lt;br&gt;\)&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-10">
+          <mxGeometry x="213" width="237" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-13" value="&lt;b&gt;No,&lt;/b&gt;&amp;nbsp;subtraction is not commutative" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-10">
+          <mxGeometry x="450" width="220" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-1">
+          <mxGeometry y="273" width="670" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-15" value="Multiplication" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#d6b656;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-14">
+          <mxGeometry width="213" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-16" value="\(\frac{-2}{3} \times \frac{4}{5} = \frac{-8}{15}\) and \(&amp;nbsp;\frac{4}{5} \times \frac{-2}{3}&lt;br&gt;= \frac{-8}{15}\&lt;br&gt;\)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-14">
+          <mxGeometry x="213" width="237" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-17" value="&lt;b style=&quot;font-size: 15px&quot;&gt;Yes&lt;/b&gt;, multiplication is commutative" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-14">
+          <mxGeometry x="450" width="220" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-1">
+          <mxGeometry y="366" width="670" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-19" value="Division" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1;strokeColor=#d6b656;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-18">
+          <mxGeometry width="213" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-20" value="\(\frac{-5}{4} \div \frac{3}{7} \neq \frac{3}{7} \div \frac{-5}{4}\)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-18">
+          <mxGeometry x="213" width="237" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="UCHAVXcFPIl7grH1iDHL-21" value="&lt;b&gt;No, &lt;/b&gt;division is not commutative" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontSize=15;" vertex="1" parent="UCHAVXcFPIl7grH1iDHL-18">
+          <mxGeometry x="450" width="220" height="94" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="L9sajBmeVtMVo4FWysEt" name="Associativity">
+    <mxGraphModel dx="868" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="58BifxX_bNWnAnfh_Szd-0" />
+        <mxCell id="58BifxX_bNWnAnfh_Szd-1" parent="58BifxX_bNWnAnfh_Szd-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
