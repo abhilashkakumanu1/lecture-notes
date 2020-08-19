@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T10:18:57.733Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="1_RyIUUF1qaVfwtlLQFl" version="13.6.3" type="github" pages="2"><diagram id="73uf103xbZS4AoFQ2aT_" name="Understanding-what-you-know">5ZdNc5swEIZ/DUd3QOLzmDqJ006/Jj647aUjizVoDIgIYez++kogbGM8k3Ebt9P2YmtfrQTss6sFC0/z7UyQMn3PY8gsZMdbC99aCDnID9WfVnad4kZuJySCxZ1kH4Q5+w5mZa/WLIbKaJ0kOc8kK4ci5UUBVA40IgRvhm4rnsUDoSQJDG5DC3NKMhi5LVgs004NvSPvB2BJ2l/Zsc1MTnpnI1QpiXlzJOE7C08F57Ib5dspZDp4fVy+3GTvaIF30ZvIJezbpzT9iifdZveXLNk/goBC/vTWi8e3TzN78gFvwsfZx61/gz8/9VtvSFabeD2oR1S0eYskL2sJolLjhou1he9NJOSuD6/gdRGDvoRt4ddNyiTMS0L1bKMSSmmpzDNlOWq44oU0GYI8bbMsm/KMi3YvHBMIV1TplRR8DUczPg1huVIz5nZBSNie8H0mOM6emEp14DlIsVPr9nkedfvs+jQIOrs55AzyTSKkR/kSIpOqJk2T/dYHFGpgaFxAxh2RWQgVXH0pXQZ1QSXjRVtNmgioAJB2OmYJkxoZXxnnhG1AexZ1vgRhIZ/kGkyxrMo2pKf2P4oYv/KGjO2+1I8gu5EzhhwFV4LsjSAvuboTffJplC3fiuTQnq4aw6/BqdYgaWp8nyG1CinQs6SWoed69hVJTUJ3AMpHaMTJCdCYU3AtTsGI02nVSKBpwVTb6c7NvNZGV6H/ATHH906K6yyzMDjDzL8Ss3DE7JaRjCfK+m1I/uRxFw07muu5YyDoTEfru9yLA4nGhx1UUj+pIKqZUX3K7cuq+23furiQtNYd7SX71F9SWK6HTsoKj99LnDMtK/AupqjMw8tsO3f0SYDvfgA=</diagram><diagram id="44-_FOuu8udjPKSoRj1p" name="Introduction">jZNNb4MwDIZ/DcdVLbCPHlvWrtI2aVI37TilYEK6BKNgWrpfv4SEFjRVGocoeezYzmsTRIlqnzSrilfMQAbhNGuD6DEIw4e7B7NacHIgnscOcC0yh6YXsBU/4OCsp43IoPbMIUKUJKoxTLEsIaURY1rjceyWo8xGoGIcRmVYsE2ZhD9unyKjwj/rduC9AcGLPvNs6i07ln5zjU3p85VYgrMo1ofxrnXBMjwOULQKokQjktupNgFpVR0rtr5iPZesoaT/XFBYUPmeN20d8Z/N83Ebf+xvfJsOTDZeCl8snXptTN2V3QrVibg8gCZhpHthO5BvWAsSWBr7DolQGQdpDcuzMAlK1F2oKO++QYyFFNzeJawMZXXlmpuLFkzVyy7loqfTnph9QWRHY2GfG67F5ERC8Ulq8ofrgzBLcbNZiqr5mr0ZVdaKtRrqDHLWSJrsK25C+ZebSqC9Kuns3Cgz+oAKSJ+MS38h9nPvx35+747HwQyF0SSeO1wMRii+89IzP7r8HP3SQ1u5a2N/vIxLZxv8jdHqFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-19T10:36:22.303Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="Aea8pM0QBrnAKZyIeud-" version="13.6.3" type="github" pages="2">
+  <diagram id="73uf103xbZS4AoFQ2aT_" name="Understanding-what-you-know">
+    <mxGraphModel dx="1720" dy="894" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="YAlLcn3y9I94ai_PhhZ3-0" />
+        <mxCell id="YAlLcn3y9I94ai_PhhZ3-1" parent="YAlLcn3y9I94ai_PhhZ3-0" />
+        <mxCell id="WRJqG0-N3v8RGOx6A3Xq-1" value="How do computers work?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YAlLcn3y9I94ai_PhhZ3-1" vertex="1">
+          <mxGeometry x="131" y="500" width="260" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="WRJqG0-N3v8RGOx6A3Xq-4" value="Write a function to separate digits of a given number&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YAlLcn3y9I94ai_PhhZ3-1" vertex="1">
+          <mxGeometry x="13.5" y="1000" width="491" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="WRJqG0-N3v8RGOx6A3Xq-5" value="both are on same ground" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=25;fillColor=#f8cecc;strokeColor=#b85450;" parent="YAlLcn3y9I94ai_PhhZ3-1" vertex="1">
+          <mxGeometry x="-88" y="169" width="172" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="WRJqG0-N3v8RGOx6A3Xq-7" value="&amp;nbsp;technical communication" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=25;fillColor=#f8cecc;strokeColor=#b85450;" parent="YAlLcn3y9I94ai_PhhZ3-1" vertex="1">
+          <mxGeometry x="161.5" y="169" width="187" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="WRJqG0-N3v8RGOx6A3Xq-8" value="Dialogue" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=25;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YAlLcn3y9I94ai_PhhZ3-1" vertex="1">
+          <mxGeometry x="199" y="-187" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WRJqG0-N3v8RGOx6A3Xq-9" value="best practice &amp;amp; shortcuts&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=25;fillColor=#f8cecc;strokeColor=#b85450;" parent="YAlLcn3y9I94ai_PhhZ3-1" vertex="1">
+          <mxGeometry x="448" y="170" width="211" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="44-_FOuu8udjPKSoRj1p" name="Introduction">
+    <mxGraphModel dx="868" dy="494" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mohtnTfuxs3gzHKwS4Uj-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.ytimg.com/vi/h-HBipu_1P0/maxresdefault.jpg;" vertex="1" parent="1">
+          <mxGeometry x="148" y="97" width="823.49" height="464" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
