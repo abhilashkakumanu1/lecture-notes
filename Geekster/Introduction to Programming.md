@@ -4,7 +4,7 @@
 
 Before we understand what programming is let's first see what **computers** are!
 
-**Story time!!!**
+**Story time!!!** - [Source](https://youtu.be/xfKn5OjHLqQ)
 
 Computers are everywhere - they are in people's pockets (phones), in their cars, on their wrists (smart watches), and also might be in their backpacks. 
 As humans we have always built tools that help us solve problems - like hammer, printing press, tractors. All these inventions helped us with **manual work**. Later people started wondering, "can we design a machine which can help us with **thinking work**?" - like solving equations, tracking stars in the sky. Rather than moving or manipulating physical things, like dit or stone, these machines would need to be designed to manipulate information. While designing the thinking machines, the pioneers realised that it should do 4 imortant tasks - Take **input**, **store** information, **process** it, and **output** it. These things are common to all computers and that's what makes a computer a computer!
