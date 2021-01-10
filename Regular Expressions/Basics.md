@@ -30,3 +30,7 @@ By using a **lazy** quantifier, the expression tries the minimal match first.
 **White space** => `\s`
 
 **Starting and ending** => `^` and `$`
+
+## Resources
+1. Introductory reading material - [link](https://regexone.com/)
+2. Exercises - [link](https://www.hackerrank.com/domains/regex)
